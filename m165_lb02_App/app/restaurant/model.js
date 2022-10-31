@@ -10,7 +10,7 @@ module.exports = class Restaurant {
     constructor() {
         //Verbindung zur Datenbank auf Basis von dbConfig erstellen
         //??
-        //Dem Objekt z.B. Restaurant das intialisierte Model auf Basis von
+        //Dem Objekt z.B. Restaurant das initialisierte Model auf Basis von
         //Schema sc zuweisen
         //??
     }

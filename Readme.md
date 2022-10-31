@@ -6,6 +6,6 @@ das Grundgerüst der App (Node.js).
 3. Nach dem Restore: Sämtliche Aufgaben in istest2 beziehen sich auf die
 Datenbank __m165_lb02__ und Collection __restaurants__.
 Deshalb wird diese Vorbedingung nicht in jeder Aufgabe wiederholt
-4. In Ihren Lösung müssen Sie nicht unbedingt __use m165_lb02__ angegeben.
+4. Bei der Abgabe Ihrer Lösung in istest2 müssen Sie nicht unbedingt __use m165_lb02__ angegeben. 
 5. Wenn Sie Support (z.B. für den Restore) von der Lehrperson benötigen,
 dann kostet Sie das jedesmal 5 Bewertungspunkte.

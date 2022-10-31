@@ -1,0 +1,20 @@
+{
+  "name": "M165",
+  "version": "1.0.0",
+  "description": "Modul_165",
+  "scripts": {
+    "serve": "node main.js"
+  },
+  "keywords": [
+    "Mediamatiker",
+    "m165",
+    "ICT",
+    "javascript"
+  ],
+  "author": "daniel.garavaldi@bzz.ch",
+  "license": "ISC",
+  "dependencies": {
+    "mongo": "^0.1.0",
+    "mongoose": "^6.6.4"
+  }
+}
